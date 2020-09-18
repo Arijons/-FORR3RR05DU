@@ -33,6 +33,7 @@ summa(6)
 print( summa)
 
 svar 2:
+
 def summa(n):
     if(n>=1):
       return summa(n-1) + pow(n,2)
