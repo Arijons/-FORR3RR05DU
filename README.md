@@ -2,7 +2,9 @@
 
 svar 1:
 Binary talan er sett í lista.
+
 summa=0
+
 Ég nota forlubbu yfir i = 0 til lengdarinnar á tviendarkerfistölunni 
 	Tek burt aftasta stafinn og margfalda með 2^i
 	Svo legg ég það við summuna
